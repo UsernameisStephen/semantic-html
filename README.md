@@ -8,7 +8,7 @@ change your screen grab name to something simple ex. screengrab.jpg
 
 ## Link to the Final Page
 
-file:///Users/StephenE/Documents/bootcamp/homework/semantic-html/index.html
+https://usernameisstephen.github.io/semantic-html/
 
 ## License
 
