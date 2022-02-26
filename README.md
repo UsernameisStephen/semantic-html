@@ -8,8 +8,7 @@ change your screen grab name to something simple ex. screengrab.jpg
 
 ## Link to the Final Page
 
-ex. of link
-[YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg)
+[W3 schools to help with elements and classes](https://www.w3schools.com/)
 
 ## License
 
