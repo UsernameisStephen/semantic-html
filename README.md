@@ -4,7 +4,7 @@
 
 ## Screenshot of Final Page
 
-change your screen grab name to something simple ex. screengrab.jpg
+![image](https://user-images.githubusercontent.com/100049940/155855925-0325f31a-ae85-4ef1-b618-5dab8260324e.png)
 
 ## Link to the Final Page
 
